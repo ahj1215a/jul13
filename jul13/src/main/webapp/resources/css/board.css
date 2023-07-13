@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+table {
+	margin: 0 auto;
+	width: 800px; 
+	height:500px;
+	border-collapse: collapse;
+	background-color: #fffde3;
+	
+}
+th{
+	height:30px;
+	background-color: #afe393;	
+}
+td{
+	text-align: center;
+	border-bottom: 2px solid #6fbf0d;
+}
+#td1 {
+	width: 10%;
+}
+#td2{
+	width: 20%
+}
+.title{
+	text-align: left;
+}
+tr:hover{
+	background-color: #cbe6ae;
+}
+
+
